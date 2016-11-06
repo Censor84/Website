@@ -1,0 +1,12 @@
+h1,h3 {
+  text-align:center;
+}
+h1 {
+  font-style:italic;
+}
+#container {
+  width: 500px
+}
+.post {
+  text-align: justify;
+}
