@@ -1,0 +1,15 @@
+@media screen and (min-width: 480px) {
+    #container {
+        background-color: lightgreen;
+    }
+}
+@media screen and (max-width: 1155px) {
+    #container {
+        width: 764px;
+    }
+}
+@media screen and (max-width: 781px) {
+    #container {
+        width: 390px;
+    }
+}
